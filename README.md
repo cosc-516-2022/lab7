@@ -14,10 +14,6 @@ Click on Start for Free. It will redirect you to an account page if you have not
 Login to Redis and you will see the following. 
 ![Redis home page](img/redis-setup3.png)
 
-## Create a Redis cluster
-...
-
-
 
 ## Configuration
 
