@@ -65,6 +65,7 @@ Here is one simple example of how to test your query in redis-cli:
 
 
 ### Some reference material. Check it out, it will help you.
+- [Sets field in the hash stored at key to value in Redis](https://redis.io/commands/hset/).
 - [Redis search using python](https://www.youtube.com/watch?v=UhnEyMDWuyI). 
 - [Query and Full-text search in Redis](https://www.youtube.com/watch?v=infTV4ifNZY).
 - [How Redis incrementally iterate over a collection of elements.](https://redis.io/commands/scan/).
