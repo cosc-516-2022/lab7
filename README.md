@@ -59,7 +59,7 @@ The redis connection command can be obtained by clicking the ```connect``` in th
 
 Once you see ```redis-cli -p XXXX -h redis-XXX.XXXX.region.provider:17928> ```, you can start working with the redis-cli.
 
-Here is one simple example of how to test your query in redis-cli:
+Here is a simple example of how to test your query in redis-cli:
 
 ![Redis-cli example](img/redis-cli.png)
 
