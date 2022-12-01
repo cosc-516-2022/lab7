@@ -81,7 +81,7 @@ To test your database, write Python code using VS Code. The file to edit is `red
 - +2 marks - Write the method `query1()` that returns all the attribute of the user by usr. 
 - +2 marks - Write the method `query2()` that  the coordinate (longitude and latitude) of the user by the usr.
 - +4 marks - Write the method `query3()` that get the keys and last names of the users whose ids do not start with an odd number.
-- +3 marks - Write the method `query4()` that returns the female in China or Russia with the latitude between 45 and 46.
+- +3 marks - Write the method `query4()` that returns the female in China or Russia with the latitude between 40 and 46.
 - +3 marks = Write the method `query5()` that gets the email ids of the top 10 players(in terms of score) in leaderboard:2.
 
 **Total Marks: 20**
